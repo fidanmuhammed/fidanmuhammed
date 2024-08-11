@@ -7,6 +7,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
- <a href="https://github.com/fidanmuhammed/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=fidanmuhammed&color=000000">
-</a>
+
